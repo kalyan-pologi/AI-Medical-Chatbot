@@ -1,2 +1,5 @@
-.env
-medical-env
+# Virtual Environment
+venv/
+medical-env/
+.env/
+.venv/
